@@ -6,9 +6,11 @@ Our sole purpose and passion are in creating an environment where users can come
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)
 
-### Studying Languages
+### Studying Languages [These languages are the ones I'm currently learning]
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
+![React.JS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
+![Discord.JS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
+![Next.JS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 
 ### Supported Languages [Front-End]
