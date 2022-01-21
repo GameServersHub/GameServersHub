@@ -9,7 +9,7 @@ Our sole purpose and passion are in creating an environment where users can come
 ### Studying Languages [These languages are the ones I'm currently learning]
 
 ![React.JS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
-![Discord.JS](https://img.shields.io/badge/-discord-js-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)
+![Discord.JS](https://img.shields.io/badge/-discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)
 ![Next.JS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=101010)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
