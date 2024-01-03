@@ -23,8 +23,11 @@ At GameServersHub, we prioritize accessibility as one of our core principles. We
 
 ## 🌍 Connect with GameServersHub:
 🌐 **Website**: GameServersHub.com
+
 📧 **Email**: info@gameservershub.com
+
 🔗 **GitHub**: GameServersHub
+
 🔗 **Discord**: [Discord.gg/gsh](https://discord.gg/gsh)
 
 ## 🤠 GameServersHub is open for business inquiries:
