@@ -24,7 +24,7 @@ At GameServersHub, we prioritize accessibility as one of our core principles. We
 ## 🌍 Connect with GameServersHub:
 🌐 **Website**: GameServersHub.com
 
-📧 **Email**: info@gameservershub.com
+📧 **Email**: support@gameservershub.com
 
 🔗 **GitHub**: GameServersHub
 
