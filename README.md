@@ -12,7 +12,7 @@ Our goal is to build a community that is run by gamers, for gamers. We believe t
 When you choose GameServersHub, you can rest assured that you are working with a team of experts who are passionate about gaming and committed to providing the best possible experience to our users. We take pride in providing top-notch services, and we are always happy to help our users in any way we can. So, whether you're a gamer looking for a reliable hosting service, or a developer looking for a platform to showcase your skills, GameServersHub is the perfect choice for you.
 
 ## 🛠️ The Power of ServerAPI:
-GameServersHub has some exciting news to share with its users. We are proud to announce that we now host the official community-driven "ServerAPI" framework which has been developed in-house by our team of experts. This open-source ServerAPI framework serves as the backbone for hosting "Ark Plugins" for two of the most popular video games in the market: "Ark: Survival Evolved" and "Ark: Survival Ascended." 
+We have built and created the official community-driven "ServerAPI" framework which has been developed in-house by our team of experts. This open-source ServerAPI framework serves as the backbone for hosting "Ark Plugins" for two of the most popular video games in the market: "Ark: Survival Evolved" and "Ark: Survival Ascended." 
 
 Our ServerAPI framework is a powerful tool designed to streamline the entire server management process. It offers a seamless experience for both the server owners and players, making it easier for them to manage and host their Ark plugins. The framework is packed with a variety of advanced features that make it a one-stop solution for all your server management needs. 
 
