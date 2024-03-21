@@ -31,7 +31,7 @@ At GameServersHub, we prioritize accessibility as one of our core principles. We
 🔗 **Discord**: [Discord.gg/gsh](https://discord.gg/gsh)
 
 ## 🤠 GameServersHub is open for business inquiries:
-Whether you're a small startup, a well-established gaming company, or simply an individual with a passion for gaming, we at GameServe are excited to hear from you. Our direct messages are always open to any inquiries related to business opportunities in the gaming industry. As fellow developers and gaming enthusiasts, we're always on the lookout for opportunities to collaborate with like-minded companies that share our commitment to serving the gaming community. So if you're interested in working with us, don't hesitate to reach out - we'd love to hear from you!
+Whether you're a small startup, a well-established gaming company, or simply an individual with a passion for gaming, we at GSH are excited to hear from you. Our direct messages are always open to any inquiries related to business opportunities in the gaming industry. As fellow developers and gaming enthusiasts, we're always on the lookout for opportunities to collaborate with like-minded companies that share our commitment to serving the gaming community. So if you're interested in working with us, don't hesitate to reach out - we'd love to hear from you!
 
 GameServersHub is a community where gamers can find their perfect home. With a wide selection of game servers available, every gamer can find the right one for them. From first-person shooters to role-playing games, GameServersHub has it all. Join our community today and experience the thrill of online gaming like never before! 🎮✨
 
